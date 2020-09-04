@@ -1,4 +1,4 @@
-name: Starter Kit CI
+name: Feature Branch Pipeline for Starter Kit CI
 
 on:
   push:

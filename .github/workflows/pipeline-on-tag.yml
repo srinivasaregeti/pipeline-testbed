@@ -1,4 +1,4 @@
-name: Starter Kit CI
+name: Master Branch Pipeline
 
 on:
 
